@@ -3,7 +3,6 @@ package com.eliatech.stockmanagement.productservice.exception.utils;
 import java.util.Locale;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
-import java.util.logging.Logger;
 
 import com.eliatech.stockmanagement.productservice.enums.Language;
 import com.eliatech.stockmanagement.productservice.exception.enums.IFriendlyMessageCode;
